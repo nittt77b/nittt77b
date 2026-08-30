@@ -5,7 +5,7 @@
 ### about
 **nordost** — full-stack developer. building iOS apps, telegram bots & web products end-to-end, from idea to deployment.
 
-🌐 [gollivude.xyz](https://gollivude.xyz)
+🌐 [gollivude.xyz](https://nordost.site)
 
 ---
 
